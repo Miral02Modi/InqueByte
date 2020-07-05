@@ -61,4 +61,15 @@ public class StringCalculator {
 	public static void main(String[] args) {
 		System.out.println(add("//[**][%%]\n1**2%%3"));
 	}
+	public int div(){
+		int a=20;
+		int b=10;
+		return(a/b);
+	}
+	// add new sub fun
+	public int sub(){
+		int a=20;
+		int b=10;
+		return(a-b);
+	}
 }
