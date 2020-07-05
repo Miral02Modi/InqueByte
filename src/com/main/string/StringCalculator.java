@@ -66,4 +66,10 @@ public class StringCalculator {
 		int b=10;
 		return(a/b);
 	}
+	// add new sub fun
+	public int sub(){
+		int a=20;
+		int b=10;
+		return(a-b);
+	}
 }
